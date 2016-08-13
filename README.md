@@ -1,7 +1,6 @@
 # superbrowser | How To Create A Web Browser In C# 
 
 How To Create A Web Browser In C#
-YouTube tutorial OOP Ep. 2
 
 ```C#
 using System;
